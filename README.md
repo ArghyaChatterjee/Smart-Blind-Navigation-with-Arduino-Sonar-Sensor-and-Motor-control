@@ -4,8 +4,7 @@
   3. One needs a sonar sensor, an arduino uno and a vibrating motor to run the project.<br>
   4. Please see the code to connect to the defined pwm pins with output vibrating motor.<br>
   5. Products Used:
-                   
-                   ![](Image/Image.png)
+     ![](Image/Image.png)
   6. If you want to see the publication, please visit: https://www.researchgate.net/publication/333370706<br />
   7. If you want to cite the research paper, please add these lines to the reference section of your research paper:<br />
 `    A. Chatterjee, S. Dutta, P. Sarkar and A. B. M. A. A. Islam, "Obstacle Detector for Blind
