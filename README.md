@@ -3,8 +3,10 @@
   2. As soon as a blind people approach any obstacle, the device will start to give signal by increasing or decreasing motor        vibration and the blind person will feel the vibration in hand accordingly.<br>
   3. One needs a sonar sensor, an arduino uno and a vibrating motor to run the project.<br>
   4. Please see the code to connect to the defined pwm pins with output vibrating motor.<br>
+<p align="center">
+  <img src="Image/Image.png", width="800">
+</p>
 
-     ![](Image/Image.png)
   5. If you want to see the publication, please visit: https://www.researchgate.net/publication/333370706<br />
   6. If you want to cite the research paper, please add these lines to the reference section of your research paper:<br />
 `    A. Chatterjee, S. Dutta, P. Sarkar and A. B. M. A. A. Islam, "Obstacle Detector for Blind
