@@ -1,4 +1,4 @@
-# Smart Blind Navigation
+# Smart Blind Navigation Device
 
 # Introduction
 It's a low cost and light weight navigation device for blind people which is worn in hand. One needs a sonar sensor, an arduino uno, a vibrating motor, and a battery to run the device.
