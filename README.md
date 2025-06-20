@@ -19,7 +19,7 @@ Upload the code to the Arduino and see the motion in
   <img src="Image/Image.png", width="800">
 </p>
 
-- If you want to see the publication, please visit: https://www.researchgate.net/publication/333370706.
+- If you want to see the poster presentation at NSysS-2017, please visit: https://www.researchgate.net/publication/333370706.
   
 - If you want to cite the research paper, please add these lines to the reference section of your research paper:
 ```
