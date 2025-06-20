@@ -7,17 +7,17 @@ It's a low cost and light weight navigation device for blind people which is wor
 As soon as a blind people approach any obstacle, the device will start to give signal by increasing or decreasing motor vibration and the blind person will feel the vibration in hand accordingly.<be
 
 # Execute the Code
-Clone the repo:
+- Clone the repo:
 ```
 git clone https://github.com/ArghyaChatterjee/Smart-Blind-Navigation-Device.git
 ```
-Connect the PWM Pins of the Arduino UNO correctly with the output of the vibrating motor, the sonar sensor, and the battery.
-
-Upload the code `blind_nav.io` to the Arduino and see the sensor and the motor in action.
+- Connect the Pins correctly with the output of the vibrating motor, the sonar sensor, and the battery.
 
 <p align="center">
-  <img src="Image/Image.png", width="800">
+  <img src="Media/Image.png", width="800">
 </p>
+
+- Upload the code `blind_nav.io` to the Arduino and see the sensor and the motor in action.
 
 - If you want to see the poster presentation at NSysS-2017, please visit: https://www.researchgate.net/publication/333370706.
   
