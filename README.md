@@ -7,7 +7,7 @@ It's a low cost and light weight navigation device for blind people which is wor
 As soon as a blind people approach any obstacle, the device will start to give signal by increasing or decreasing motor vibration and the blind person will feel the vibration in hand accordingly.
 
 <p align="center">
-  <img src="media/Image2.png", width="800">
+  <img src="media/Image_2.png", width="800">
 </p>
 
 # Execute the Code
