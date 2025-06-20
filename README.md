@@ -14,7 +14,7 @@ git clone https://github.com/ArghyaChatterjee/Smart-Blind-Navigation-Device.git
 - Connect the Pins correctly with the output of the vibrating motor, the sonar sensor, and the battery.
 
 <p align="center">
-  <img src="Media/Image.png", width="800">
+  <img src="media/Image.png", width="800">
 </p>
 
 - Upload the code `blind_nav.io` to the Arduino and see the sensor and the motor in action.
