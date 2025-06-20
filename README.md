@@ -13,7 +13,7 @@ git clone https://github.com/ArghyaChatterjee/Smart-Blind-Navigation-Device.git
 ```
 Connect the PWM Pins of the Arduino UNO correctly with the output of the vibrating motor, the sonar sensor, and the battery.
 
-Upload the code to the Arduino and see the sensor and the motor in action.
+Upload the code `blind_nav.io` to the Arduino and see the sensor and the motor in action.
 
 <p align="center">
   <img src="Image/Image.png", width="800">
