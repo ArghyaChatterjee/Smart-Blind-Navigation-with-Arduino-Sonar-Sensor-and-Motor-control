@@ -4,9 +4,11 @@
 It's a low cost and light weight navigation device for blind people which is worn in hand. One needs a sonar sensor, an arduino uno and a vibrating motor to run the project.
 
 # Working Principle
-As soon as a blind people approach any obstacle, the device will start to give signal by increasing or decreasing motor        vibration and the blind person will feel the vibration in hand accordingly.<br>
-  3. <br>
-  4. Please see the code to connect to the defined pwm pins with output vibrating motor.<br>
+As soon as a blind people approach any obstacle, the device will start to give signal by increasing or decreasing motor vibration and the blind person will feel the vibration in hand accordingly.<be
+
+# Execute the Code
+Upload the code to the Arduino and see the code to connect to the defined pwm pins with output vibrating motor.
+
 <p align="center">
   <img src="Image/Image.png", width="800">
 </p>
