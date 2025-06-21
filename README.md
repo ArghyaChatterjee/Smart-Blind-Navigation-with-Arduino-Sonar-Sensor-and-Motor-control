@@ -23,7 +23,7 @@ git clone https://github.com/ArghyaChatterjee/Smart-Blind-Navigation-Device.git
 
 - Upload the code `blind_nav.io` to the Arduino and see the sensor and the motor in action.
 
-# Pin Connections and Functionality
+# Pin Connections 
 
 This Arduino sketch uses an ultrasonic sensor and a motor to respond to nearby objects. Here's how the pins are connected:
 
@@ -34,7 +34,7 @@ This Arduino sketch uses an ultrasonic sensor and a motor to respond to nearby o
 | `5`         | Motor (via driver)  | Controls motor based on proximity          |
 | `A0`        | Potentiometer       | Adjusts the distance threshold dynamically |
 
-### Functions
+# Functionality
 
 * Sends out an ultrasonic pulse using the **Trig** pin.
 * Measures the time it takes for the echo to return using the **Echo** pin.
